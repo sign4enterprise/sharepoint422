@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms/main"
+    url: "https://carahsoft.sharepoint.com/sites/DavidsTest/Library/Forms/AllItems.aspx?npsAction=createList&id=%2Fsites%2FDavidsTest%2FLibrary%2Fwefinance&viewid=e2583493%2D2713%2D4919%2Db398%2De3b71683a1a5"
     type: "markup"
     suffix: ".html"
